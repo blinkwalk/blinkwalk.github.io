@@ -1,4 +1,14 @@
 [
-    {"date": "2024.09 - Till now", "content": "Ph.D. student at [School of Software, Tsinghua University](https://www.thss.tsinghua.edu.cn/), advised by [Yuan He](http://tns.thss.tsinghua.edu.cn/sun/members/YuanHe/)"},
-    {"date": "2020.09 - 2024.09", "content": "Undergraduate student at [Tsinghua University](https://www.tsinghua.edu.cn/), majoring in Mathematics and Physics + Software Engineering"}
+    {
+        "date": "2025.09 - Till now",
+        "content": "Ph.D. student at [School of Software, Tsinghua University](https://www.thss.tsinghua.edu.cn/), advised by [Yuan He](http://tns.thss.tsinghua.edu.cn/sun/members/YuanHe/)"
+    },
+    {
+        "date": "2022.09 - 2025.06",
+        "content": "M.Phil student at [​School of Information and Communication Engineering, University of Electronic Science and Technology of China](https://www.sice.uestc.edu.cn/index.htm)"
+    },
+    {
+        "date": "2018.09 - 2022.06",
+        "content": "Undergraduate student at [Hohai University](https://www.hhu.edu.cn/), majoring in Communication Engineering"
+    }
 ]

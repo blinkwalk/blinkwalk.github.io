@@ -1,9 +1,14 @@
 {
-    "name": "Jiaming Gu (顾家铭)",
-    "description": "<strong>Biography: </strong>I'm a Ph.D. student at [Tsinghua University](https://www.thss.tsinghua.edu.cn/) and now working in the [Systems and Ubiquitous Networking (SUN) group](http://tns.thss.tsinghua.edu.cn/sun/), advised by [Yuan He](http://tns.thss.tsinghua.edu.cn/sun/members/YuanHe/). I will receive my B.S. degree from Tsinghua University in 2024.<br><br><strong>Research Interests: </strong> Wireless Sensing, Wireless Networking, Low power IoT",
+    "name": "Junyang Liu (刘骏杨)",
+    "description": "<b>Biography:</b> I'm a Ph.D. student at [School of Software, Tsinghua University](https://www.thss.tsinghua.edu.cn/), advised by [Yuan He](http://tns.thss.tsinghua.edu.cn/sun/members/YuanHe/). I received my Master degree from [University of Electronic Science and Technology of China](https://www.sice.uestc.edu.cn/index.htm) in 2025.",
     "contact": {
-        "Github": {"icon": "fa fa-github", "url": "https://github.com/GJCav"},
-        "Blog": {"icon": "fa fa-link", "url": "https://blog.gjm20.top/"},
-        "Email": {"icon": "fa fa-envelope", "url": "mailto:gjm20@mails.tsinghua.edu.cn"}
+        "Github": {
+            "icon": "fa fa-github",
+            "url": "https://github.com/blinkwalk"
+        },
+        "Email": {
+            "icon": "fa fa-envelope",
+            "url": "2418959620@qq.com"
+        }
     }
 }

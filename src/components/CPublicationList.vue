@@ -8,7 +8,7 @@ import CodeBadge from './badges/CodeBadge.vue'
 import DemoBadge from './badges/DemoBadge.vue'
 import { AclCsl, Gb7714Csl } from '../utils'
 
-import pubJson from '../content/pub.json'
+import pubJson from '../content/Cpub.json'
 
 
 const pubArr = computed(() => {
@@ -115,7 +115,7 @@ function copyToClipboard(text, pubId, cslTemplateType) {
 </script>
 
 <template>
-  <h2>📃 Journal Publications</h2>
+  <h2>📃 Conference Publications</h2>
   <p>
     <b>bold</b>: myself.
     <sup>*</sup>: corresponding author(s).

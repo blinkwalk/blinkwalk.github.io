@@ -1,10 +1,19 @@
 [
     {
-        "category": "Honors", "list": [
-        ]
-    },
-    {
-        "category": "Competitions", "list": [
+        "category": "Honors",
+        "list": [
+            {
+                "date": "2019.06",
+                "content": "Excellent Graduates of Guizhou Province"
+            },
+            {
+                "date": "2018.12",
+                "content": "National Scholarship"
+            },
+            {
+                "date": "2016.11",
+                "content": "Merit Student of Guizhou Province"
+            }
         ]
     }
 ]

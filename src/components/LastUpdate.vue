@@ -34,5 +34,5 @@ defineExpose({lastUpdate})
 </script>
 
 <template>
-  <span>Last Update: {{ lastUpdate }}</span>
+  <span> {{ lastUpdate }}</span>
 </template>

@@ -6,10 +6,12 @@ import LastUpdate from './LastUpdate.vue';
     <footer>
         <hr>
         <p>
-          Links:
-          <a href="https://http://tns.thss.tsinghua.edu.cn/sun/index.html/" target="_blank">SUN Group</a>
-          | <a href="https://blog.gjm20.top/" target="_blank">My Blog</a>
+          <b>Relevant Links:</b>
+          <a href="https://tns.thss.tsinghua.edu.cn/sun/" target="_blank">The SUN Group</a>
+          | <a href="http://tns.thss.tsinghua.edu.cn/sun/members/YuanHe/" target="_blank">Prof. Yuan He</a>
         </p>
-        <LastU  pdate />
+        <p>
+            Last Update by Junyang Liu in <LastUpdate />
+        </p>
     </footer>
 </template>
